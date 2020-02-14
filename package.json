@@ -1,0 +1,16 @@
+{
+	"name": "weather-bot",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/IvaTsu/weather-bot.git",
+	"author": "IvaTsu <ivan.tsud@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"dotenv": "^8.2.0",
+		"node-fetch": "^2.6.0",
+		"node-telegram-bot-api": "^0.40.0"
+	},
+	"devDependencies": {
+		"@workwithizzi/eslint-config": "^0.0.2"
+	}
+}
